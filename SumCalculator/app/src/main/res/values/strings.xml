@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SumCalculator</string>
+    <string name="infotxt">Valitse kaksi numeroa, laskin laskee ne yhteen ja kertoo tuloksen.</string>
+    <string name="tulos"></string>
+    <string name="button">LASKE</string>
+    <string name="merkki">+</string>
+</resources>

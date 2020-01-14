@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LaunchMap</string>
+    <string name="longitude"></string>
+    <string name="latitude"></string>
+    <string name="map">NÄYTÄ</string>
+    <string name="text">Anna sijainti (leveyspiiri ja pituuspiiri)</string>
+</resources>
