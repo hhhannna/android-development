@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BuildUIWithLayoutEditor</string>
+    <string name="Left_top">Left Top</string>
+    <string name="Right_top">Right Top</string>
+    <string name="Left_bottom">Left Bottom</string>
+    <string name="Right_bottom">Right Bottom</string>
+    <string name="imagetxt">Hello android!</string>
+</resources>
